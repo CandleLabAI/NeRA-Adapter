@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Project Page](https://img.shields.io/badge/%F0%9F%8C%8E-Project%20Website-purple)]((https://candlelabai.github.io/WACV2026-FLORA-Dataset-NeRA-Adapter/))
+[![Project Page](https://img.shields.io/badge/%F0%9F%8C%8E-Project%20Website-purple)](https://candlelabai.github.io/WACV2026-FLORA-Dataset-NeRA-Adapter)
 [![HF Dataset](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Dataset-orange)](https://huggingface.co/datasets/CandleLabAI/FLORA)
 [![ArXiv](https://img.shields.io/badge/%F0%9F%93%96%20ArXiv-Paper-b31b1b)](https://arxiv.org/pdf/2411.13901)
 [![WACV](https://img.shields.io/badge/%F0%9F%8C%B8%20WACV%202026-Paper-553C9A)](WACV_PAPER_URL_HERE)
