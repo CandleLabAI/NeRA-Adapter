@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Project Page](https://img.shields.io/badge/%F0%9F%8C%8E-Project%20Website-purple)](YOUR_PROJECT_URL_HERE)
-[![HF Dataset](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Dataset-orange)](https://huggingface.co/datasets/YOUR_HF_USERNAME/YOUR_DATASET_NAME)
-[![ArXiv](https://img.shields.io/badge/%F0%9F%93%96%20ArXiv-Paper-b31b1b)](https://arxiv.org/abs/ARXIV_ID_HERE)
+[![Project Page](https://img.shields.io/badge/%F0%9F%8C%8E-Project%20Website-purple)]((https://candlelabai.github.io/WACV2026-FLORA-Dataset-NeRA-Adapter/))
+[![HF Dataset](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Dataset-orange)](https://huggingface.co/datasets/CandleLabAI/FLORA)
+[![ArXiv](https://img.shields.io/badge/%F0%9F%93%96%20ArXiv-Paper-b31b1b)](https://arxiv.org/pdf/2411.13901)
 [![WACV](https://img.shields.io/badge/%F0%9F%8C%B8%20WACV%202026-Paper-553C9A)](WACV_PAPER_URL_HERE)
 
 </div>
@@ -85,12 +85,6 @@ python infer_flux_Nera.py
 - Dataset root (images + CSV)
 - NeRA hyperparameters (rank, alpha, target layers)
 - Training params (batch size, LR, epochs)
-
----
-
-## 📬 Contact
-
-For questions, suggestions, or collaborations, feel free to reach out via [GitHub Issues](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) or email listed on the [project website](YOUR_PROJECT_URL_HERE).
 
 ---
 
